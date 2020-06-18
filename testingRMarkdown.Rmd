@@ -1,0 +1,28 @@
+---
+title: "My first T Markdown"
+author: "Sidiki"
+date: "18/06/2020"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+---
+
+# Tilte 1
+## Tilte 2 
+
+```{r}
+a=3
+b=8
+s=a+b
+print(s)
+  
+```
+
+An other chunk
+```{r}
+z=1:10
+plot(z)
+```
+
