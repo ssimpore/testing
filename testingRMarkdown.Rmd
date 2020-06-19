@@ -12,6 +12,13 @@ output:
 # Tilte 1
 ## Tilte 2 
 
+1 point
+
+~~strikethrough~~
+
+You can visit my web site 
+[ici](www.sidiki-simpore.com)
+
 ```{r}
 a=3
 b=8
